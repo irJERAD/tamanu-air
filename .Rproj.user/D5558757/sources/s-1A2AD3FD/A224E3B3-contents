@@ -1,0 +1,23 @@
+BaseUrl= "/"
+LanguageCode= "en-US"
+Title= "Touch of Tahiti"
+paginate = 5
+DisqusShortname = "irJERAD"
+Copyright = "All rights reserved - 2017"
+canonifyurls = true
+
+[params]
+  description = "Feel the touch of Tahiti, heal the scars of time"
+  cover = "images/user.jpg"
+  author = "Jerad"
+  authorlocation = ""
+  authorwebsite = "www.jerad.xyz"
+  bio= "my bio"
+  logo = "images/user.png"
+  googleAnalyticsUserID = ""
+  # Optional RSS-Link, if not provided it defaults to the standard index.xml
+  RSSLink = ""
+  githubName = "irJERAD"
+  twitterName = "irJERAD"
+  # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
+  hideHUGOSupport = false
